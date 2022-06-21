@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReflectionApp1\bin\Debug\netcoreapp3.1\ReflectionApp1.exe
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReflectionApp1\bin\Debug\netcoreapp3.1\ReflectionApp1.deps.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReflectionApp1\bin\Debug\netcoreapp3.1\ReflectionApp1.runtimeconfig.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReflectionApp1\bin\Debug\netcoreapp3.1\ReflectionApp1.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReflectionApp1\bin\Debug\netcoreapp3.1\ReflectionApp1.dll
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReflectionApp1\bin\Debug\netcoreapp3.1\ReflectionApp1.pdb
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReflectionApp1\obj\Debug\netcoreapp3.1\ReflectionApp1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReflectionApp1\obj\Debug\netcoreapp3.1\ReflectionApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReflectionApp1\obj\Debug\netcoreapp3.1\ReflectionApp1.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReflectionApp1\obj\Debug\netcoreapp3.1\ReflectionApp1.AssemblyInfo.cs
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReflectionApp1\obj\Debug\netcoreapp3.1\ReflectionApp1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReflectionApp1\obj\Debug\netcoreapp3.1\ReflectionApp1.dll
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReflectionApp1\obj\Debug\netcoreapp3.1\ReflectionApp1.pdb
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReflectionApp1\obj\Debug\netcoreapp3.1\ReflectionApp1.genruntimeconfig.cache

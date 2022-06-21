@@ -1,0 +1,28 @@
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\AccountsApp\bin\Debug\netcoreapp3.1\AccountsApp.exe
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\AccountsApp\bin\Debug\netcoreapp3.1\AccountsApp.deps.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\AccountsApp\bin\Debug\netcoreapp3.1\AccountsApp.runtimeconfig.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\AccountsApp\bin\Debug\netcoreapp3.1\AccountsApp.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\AccountsApp\bin\Debug\netcoreapp3.1\AccountsApp.dll
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\AccountsApp\bin\Debug\netcoreapp3.1\AccountsApp.pdb
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.dll
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.pdb
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\AccountsApp\bin\Debug\netcoreapp3.1\AccountsApp.exe
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\AccountsApp\bin\Debug\netcoreapp3.1\AccountsApp.deps.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\AccountsApp\bin\Debug\netcoreapp3.1\AccountsApp.runtimeconfig.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\AccountsApp\bin\Debug\netcoreapp3.1\AccountsApp.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\AccountsApp\bin\Debug\netcoreapp3.1\AccountsApp.dll
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\AccountsApp\bin\Debug\netcoreapp3.1\AccountsApp.pdb
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.dll
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.pdb
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\AccountsApp\obj\Debug\netcoreapp3.1\AccountsApp.genruntimeconfig.cache
