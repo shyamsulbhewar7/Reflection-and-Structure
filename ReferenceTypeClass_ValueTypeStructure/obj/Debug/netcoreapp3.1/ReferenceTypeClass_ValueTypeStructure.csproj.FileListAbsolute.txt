@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReferenceTypeClass_ValueTypeStructure\bin\Debug\netcoreapp3.1\ReferenceTypeClass_ValueTypeStructure.exe
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReferenceTypeClass_ValueTypeStructure\bin\Debug\netcoreapp3.1\ReferenceTypeClass_ValueTypeStructure.deps.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReferenceTypeClass_ValueTypeStructure\bin\Debug\netcoreapp3.1\ReferenceTypeClass_ValueTypeStructure.runtimeconfig.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReferenceTypeClass_ValueTypeStructure\bin\Debug\netcoreapp3.1\ReferenceTypeClass_ValueTypeStructure.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReferenceTypeClass_ValueTypeStructure\bin\Debug\netcoreapp3.1\ReferenceTypeClass_ValueTypeStructure.dll
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReferenceTypeClass_ValueTypeStructure\bin\Debug\netcoreapp3.1\ReferenceTypeClass_ValueTypeStructure.pdb
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReferenceTypeClass_ValueTypeStructure\obj\Debug\netcoreapp3.1\ReferenceTypeClass_ValueTypeStructure.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReferenceTypeClass_ValueTypeStructure\obj\Debug\netcoreapp3.1\ReferenceTypeClass_ValueTypeStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReferenceTypeClass_ValueTypeStructure\obj\Debug\netcoreapp3.1\ReferenceTypeClass_ValueTypeStructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReferenceTypeClass_ValueTypeStructure\obj\Debug\netcoreapp3.1\ReferenceTypeClass_ValueTypeStructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReferenceTypeClass_ValueTypeStructure\obj\Debug\netcoreapp3.1\ReferenceTypeClass_ValueTypeStructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReferenceTypeClass_ValueTypeStructure\obj\Debug\netcoreapp3.1\ReferenceTypeClass_ValueTypeStructure.dll
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReferenceTypeClass_ValueTypeStructure\obj\Debug\netcoreapp3.1\ReferenceTypeClass_ValueTypeStructure.pdb
+C:\Users\DELL\Desktop\SwabhavTechLab\Assignment\Reflection and Structure\ReferenceTypeClass_ValueTypeStructure\obj\Debug\netcoreapp3.1\ReferenceTypeClass_ValueTypeStructure.genruntimeconfig.cache
